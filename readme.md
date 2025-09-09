@@ -206,12 +206,6 @@ Run the test suite:
 ./gradlew test
 ```
 
-Generate test report:
-```bash
-./gradlew test jacocoTestReport
-```
-
-Test report will be available at `build/reports/tests/test/index.html`
 
 ## Health Check
 
